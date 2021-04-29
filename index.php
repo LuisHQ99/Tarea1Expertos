@@ -1,6 +1,6 @@
 
 <?php
-    require 'libs/FrontController.php';
+    require 'FrontController.php';
     FrontController::main();
 
 ?>
